@@ -4,183 +4,206 @@
 -->
 
 <div align="center">
-
-<img src="./assets/cyber-ascii.png" height="250" alt="Cyber-themed ASCII banner featuring Shahil Roy" />
-
-<br />
-
-# Shahil Roy
-
-### Engineering Student · AI Builder · Python & Django Developer
-
-Building practical AI systems for document intelligence, legal research, automation and secure software.
-
-[![GitHub](https://img.shields.io/badge/GitHub-ShahilRoy-181717?style=for-the-badge&logo=github)](https://github.com/ShahilRoy)
-[![Profile Views](https://komarev.com/ghpvc/?username=ShahilRoy&style=for-the-badge&color=f59e0b&label=PROFILE+VIEWS)](https://github.com/ShahilRoy)
-
+  <img src="./assets/cyber-ascii.png" height="250" alt="Cyber ASCII Banner" />
+  <br /><br />
+  <h1>Shahil Roy</h1>
+  <h3>Engineering Student · AI Builder · Python &amp; Django Developer</h3>
+  <p>Building practical AI systems for document intelligence, legal research, automation, and secure software.</p>
+  
+  <p>
+    <a href="https://github.com/ShahilRoy"><img src="https://img.shields.io/badge/GitHub-ShahilRoy-181717?style=for-the-badge&amp;logo=github" alt="GitHub" /></a>
+    <a href="https://github.com/ShahilRoy"><img src="https://komarev.com/ghpvc/?username=ShahilRoy&amp;style=for-the-badge&amp;color=f59e0b&amp;label=PROFILE+VIEWS" alt="Profile Views" /></a>
+  </p>
 </div>
 
----
+<br />
+<hr />
+<br />
 
 ## 👤 About Me
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="55%">
       <h3>Developing secure, intelligent systems 🚀</h3>
-      <p>I am a <strong>B.Tech Computer Science student</strong> at Brainware University, working across AI engineering, backend development, cybersecurity, data analysis, and blockchain.</p>
-      <p><strong>Main Focus:</strong> An AI-powered legal workspace designed to bring document analysis, grounded legal chat, research, and drafting into a single interface.</p>
-      <p><em>I learn by doing: building systems, identifying weaknesses, improving architecture, and turning experimental ideas into reliable applications.</em></p>
+      <p>I am a B.Tech Computer Science student at Brainware University, working across AI engineering, backend development, application security, data analysis, and blockchain.</p>
+      <p>I believe in learning by doing: building systems, finding security flaws, optimizing backend operations, and writing clean, reliable code.</p>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="45%" align="center">
       <img src="./assets/about-card.svg" width="100%" alt="Shahil's Profile Details" />
     </td>
   </tr>
 </table>
 
+<br />
+<hr />
+<br />
+
 ## 🛠️ Currently Building
 
-### AI-Powered Legal Workspace (Judicore AI)
-An all-in-one AI workspace for legal research and document-based workflows.
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h3>AI-Powered Legal Workspace (Judicore AI)</h3>
+      <p>An all-in-one AI workspace designed to bring document analysis, grounded legal chat, research, and drafting into a single interface.</p>
+      <strong>Key development areas:</strong>
+      <ul>
+        <li>🔍 Source-grounded AI conversations</li>
+        <li>📄 Large PDF processing and analysis</li>
+        <li>🧠 Retrieval-Augmented Generation (RAG)</li>
+        <li>🔒 Document and conversation isolation</li>
+        <li>⚡ Scalable background-processing pipelines</li>
+        <li>💻 NotebookLM-inspired workspace design</li>
+        <li>🛡️ Secure multi-user architecture</li>
+      </ul>
+      <p><em>The goal is to build a focused workspace where documents, research, reasoning, and drafting remain connected.</em></p>
+    </td>
+    <td valign="top" width="45%">
+      <h3>🚀 Development Priorities</h3>
+      <ul>
+        <li><strong>01.</strong> Improve RAG answer quality</li>
+        <li><strong>02.</strong> Process large documents efficiently</li>
+        <li><strong>03.</strong> Build secure document-access controls</li>
+        <li><strong>04.</strong> Create a clean, responsive workspace</li>
+        <li><strong>05.</strong> Reduce unnecessary architectural complexity</li>
+        <li><strong>06.</strong> Turn prototypes into production systems</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-**Key areas I am working on:**
-- 🔍 Source-grounded AI conversations
-- 📄 Large PDF processing and analysis
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🌐 Legal research combining uploaded documents and web sources
-- ✍️ AI-assisted legal drafting
-- 🔒 Document and conversation isolation
-- ⚡ Scalable background-processing pipelines
-- 💻 NotebookLM-inspired workspace design
-- 🛡️ Secure multi-user architecture
-- 🧪 Production-focused testing and reliability
-
-*The goal is not just to create another chatbot, but to build a focused workspace where documents, research, reasoning, and drafting remain connected.*
-
-### 🚀 Development Priorities
-- **01.** Improve RAG answer quality
-- **02.** Process large documents efficiently
-- **03.** Build secure document-access controls
-- **04.** Create a clean and responsive workspace
-- **05.** Reduce unnecessary complexity
-- **06.** Turn prototypes into production-ready systems
-
----
+<br />
+<hr />
+<br />
 
 ## 💻 Technical Skills
 
-### 🧠 Languages
-<p> <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,solidity,html,css,sql" alt="Programming languages" /> </p>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🧠 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,solidity,html,css,sql" alt="Languages" />
+      <br /><br />
+      <h3>⚙️ Backend &amp; Systems</h3>
+      <img src="https://skillicons.dev/icons?i=django,flask,nodejs,react" alt="Backend" />
+    </td>
+    <td valign="top" width="33%">
+      <h3>📊 Databases &amp; Data</h3>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" />
+      <ul>
+        <li>Pandas &amp; Matplotlib</li>
+        <li>Data cleaning &amp; analysis</li>
+        <li>OCR &amp; document extraction</li>
+      </ul>
+    </td>
+    <td valign="top" width="34%">
+      <h3>⛓️ Blockchain &amp; Web3</h3>
+      <img src="https://skillicons.dev/icons?i=solidity,ethereum" alt="Blockchain" />
+      <ul>
+        <li>Foundry (Forge, Cast, Anvil)</li>
+        <li>Chainlink Price Feeds &amp; VRF</li>
+        <li>Solidity scripting &amp; testing</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top">
+      <h3>🛠️ Tools &amp; Platforms</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,powershell,bash,figma" alt="Tools" />
+      <p>Windows/WSL · Docker Desktop · Ollama (Local LLMs) · n8n automation · Exa Search · REST APIs · Bash/PowerShell scripting</p>
+    </td>
+  </tr>
+</table>
 
-### ⚙️ Backend & Application Development
-<p> <img src="https://skillicons.dev/icons?i=django,flask,nodejs,react" alt="Frameworks and application development tools" /> </p>
-
-### 📊 Databases & Data
-<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" /> </p>
-
-- 🐼 Pandas & Matplotlib
-- 🧼 Data cleaning and analysis
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🔍 Vector-search workflows
-- 📄 OCR and document extraction
-
-### ⛓️ Blockchain
-<p> <img src="https://skillicons.dev/icons?i=solidity,ethereum" alt="Blockchain technologies" /> </p>
-
-- 🛠️ Foundry (Forge, Cast, Anvil, Chisel)
-- 📈 Chainlink Price Feeds & Chainlink VRF
-- 🧪 Smart-contract testing
-- 🚀 Local and testnet deployment
-- 📜 Solidity scripting
-
-### 🛠️ Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,powershell,bash,figma" alt="Development tools" /> </p>
-
-- 🪟 Windows and WSL
-- 🐳 Docker Desktop
-- 🐙 Git and GitHub
-- 🦙 Ollama and local LLMs
-- 🔄 n8n automation
-- 🌐 Exa web-search integration
-- 🔌 REST APIs
-- 🐚 PowerShell and Bash
-- 🤖 Codex-assisted development
-
----
+<br />
+<hr />
+<br />
 
 ## 📂 Project Experience
 
-### 🚀 Judicore AI
-`AI` · `Django` · `RAG` · `PDF Processing` · `Legal Research` · `Web Search`
+<table>
+  <tr>
+    <td>
+      <h3>🚀 Judicore AI</h3>
+      <code>AI</code> · <code>Django</code> · <code>RAG</code> · <code>PDF Processing</code> · <code>Legal Research</code> · <code>Web Search</code>
+      <p>A document-centred legal AI platform supporting research, source-grounded answers, PDF analysis and drafting workflows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>⛓️ FoundryProject251</h3>
+      <code>Solidity</code> · <code>Foundry</code> · <code>Smart Contracts</code> · <code>Testing</code> · <code>Deployment</code>
+      <p>A collection of Solidity projects developed while learning professional smart-contract workflows with Foundry.</p>
+      <p>👉 <a href="https://github.com/ShahilRoy/FoundryProject251">View repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>💳 FundMe Smart Contract</h3>
+      <code>Solidity</code> · <code>Chainlink</code> · <code>Forge Testing</code> · <code>Deployment Scripts</code>
+      <p>A decentralized funding contract using Chainlink price feeds, automated deployment scripts and unit testing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🎟️ Smart Contract Lottery</h3>
+      <code>Solidity</code> · <code>Chainlink VRF V2.5</code> · <code>Automation</code> · <code>Foundry</code>
+      <p>A decentralized raffle system using verifiable randomness, mocks, network configuration and automated testing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>✍️ Handwriting-to-Text Application</h3>
+      <code>Python</code> · <code>Flask</code> · <code>OpenCV</code> · <code>Tesseract OCR</code> · <code>Pillow</code>
+      <p>An OCR-based application for extracting digital text from handwritten or scanned images.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📊 Data Analysis Projects</h3>
+      <code>Python</code> · <code>Pandas</code> · <code>Matplotlib</code> · <code>SQL</code>
+      <p>Data-cleaning, visualization and exploratory-analysis projects, including analysis of COVID-19 datasets.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🤖 Workflow Automation</h3>
+      <code>n8n</code> · <code>Gmail</code> · <code>Ollama</code> · <code>Docker</code> · <code>Local AI</code>
+      <p>Experiments with AI-assisted email categorization and local automation using n8n, Gmail integrations and Ollama models.</p>
+    </td>
+  </tr>
+</table>
 
-A document-centred legal AI platform supporting research, source-grounded answers, PDF analysis and drafting workflows.
+<br />
+<hr />
+<br />
 
----
-
-### ⛓️ FoundryProject251
-`Solidity` · `Foundry` · `Smart Contracts` · `Testing` · `Deployment`
-
-A collection of Solidity projects developed while learning professional smart-contract workflows with Foundry.
-
-👉 [View repository](https://github.com/ShahilRoy/FoundryProject251)
-
----
-
-### 💳 FundMe Smart Contract
-`Solidity` · `Chainlink` · `Forge Testing` · `Deployment Scripts`
-
-A decentralized funding contract using Chainlink price feeds, automated deployment scripts and unit testing.
-
----
-
-### 🎟️ Smart Contract Lottery
-`Solidity` · `Chainlink VRF V2.5` · `Automation` · `Foundry`
-
-A decentralized raffle system using verifiable randomness, mocks, network configuration and automated testing.
-
----
-
-### ✍️ Handwriting-to-Text Application
-`Python` · `Flask` · `OpenCV` · `Tesseract OCR` · `Pillow`
-
-An OCR-based application for extracting digital text from handwritten or scanned images.
-
----
-
-### 📊 Data Analysis Projects
-`Python` · `Pandas` · `Matplotlib` · `SQL`
-
-Data-cleaning, visualization and exploratory-analysis projects, including analysis of COVID-19 datasets.
-
----
-
-### 🤖 Workflow Automation
-`n8n` · `Gmail` · `Ollama` · `Docker` · `Local AI`
-
-Experiments with AI-assisted email categorization and local automation using n8n, Gmail integrations and Ollama models.
-
----
-
-## 📚 What I Am Learning
-
-| Area | Current Focus |
-| :--- | :--- |
-| **AI Engineering** | RAG, grounding, retrieval and model orchestration |
-| **Backend Development** | Django architecture, APIs and background jobs |
-| **Document Intelligence** | PDF parsing, OCR, indexing and citations |
-| **Security** | Authentication, authorization and data isolation |
-| **Cloud** | Deployment, monitoring and scalable infrastructure |
-| **Frontend** | Responsive AI workspaces and TypeScript |
-| **Blockchain** | Foundry, Solidity and Chainlink integrations |
-| **Data** | Python, SQL and visualization |
-
----
-
-## ⚙️ Engineering Approach
-
-<div align="center">
-
-```
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h2>📚 What I Am Learning</h2>
+      <table>
+        <thead>
+          <tr>
+            <th align="left">Area</th>
+            <th align="left">Current Focus</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><strong>AI Engineering</strong></td><td>RAG, grounding, retrieval, orchestration</td></tr>
+          <tr><td><strong>Backend Development</strong></td><td>Django architecture, APIs, background jobs</td></tr>
+          <tr><td><strong>Document Intelligence</strong></td><td>PDF parsing, OCR, indexing, citations</td></tr>
+          <tr><td><strong>Security</strong></td><td>Authentication, authorization, data isolation</td></tr>
+          <tr><td><strong>Cloud</strong></td><td>Deployment, monitoring, scalable infra</td></tr>
+          <tr><td><strong>Frontend</strong></td><td>Responsive AI workspaces, TypeScript</td></tr>
+          <tr><td><strong>Blockchain</strong></td><td>Foundry, Solidity, Chainlink integrations</td></tr>
+          <tr><td><strong>Data</strong></td><td>Python, SQL, visualization</td></tr>
+        </tbody>
+      </table>
+    </td>
+    <td valign="top" width="45%" align="center">
+      <h2>⚙️ Engineering Approach</h2>
+      <pre>
   Understand the problem
             ↓
 Build the smallest working version
@@ -194,53 +217,63 @@ Improve security and reliability
   Document what matters
             ↓
           Repeat
-```
+      </pre>
+    </td>
+  </tr>
+</table>
 
-</div>
-
-### 💎 Core Values
-- **Clear architecture** over unnecessary abstraction
-- **Secure defaults** over client-controlled trust
-- **Grounded AI answers** over confident hallucinations
-- **Practical testing** over assumptions
-- **Maintainable code** over short-term shortcuts
-- **Simple interfaces** over technical clutter
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=ShahilRoy&show_icons=true&hide_border=true&theme=transparent&title_color=f59e0b&icon_color=f59e0b&text_color=a3a3a3" alt="Shahil's GitHub statistics" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShahilRoy&layout=compact&hide_border=true&theme=transparent&title_color=f59e0b&text_color=a3a3a3" alt="Most used languages" />
-</div>
 <br />
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShahilRoy&theme=transparent&hide_border=true&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=a3a3a3&dates=737373" alt="GitHub contribution streak" />
-</div>
-
-## 📈 Contribution Activity
+<hr />
+<br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahilRoy&bg_color=00000000&color=a3a3a3&line=f59e0b&point=fbbf24&area=true&hide_border=true" width="100%" alt="GitHub contribution graph" />
+  <h2>💎 Core Values</h2>
+  <table width="85%">
+    <tr>
+      <td>
+        <ul>
+          <li><strong>Clear architecture</strong> over unnecessary abstraction</li>
+          <li><strong>Secure defaults</strong> over client-controlled trust</li>
+          <li><strong>Grounded AI answers</strong> over confident hallucinations</li>
+          <li><strong>Practical testing</strong> over assumptions</li>
+          <li><strong>Maintainable code</strong> over short-term shortcuts</li>
+          <li><strong>Simple interfaces</strong> over technical clutter</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br />
+<hr />
+<br />
 
-## 🎯 Current Direction
-
-My current objective is to become capable of building complete real-world systems—from interface and backend architecture to AI integration, security, testing and deployment.
-
-I am particularly interested in projects involving:
-- 📄 AI + Documents
-- ⚖️ AI + Legal Technology
-- 🤖 AI + Automation
-- 🛡️ Secure Backend Systems
-- 🛠️ Developer Tools
-- 🌐 Open-Source Software
+<div align="center">
+  <h2>📊 GitHub Statistics</h2>
+  <img height="175" src="https://github-stats-extended.vercel.app/api?username=ShahilRoy&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=f59e0b&amp;icon_color=f59e0b&amp;text_color=a3a3a3" alt="Shahil's GitHub statistics" />
+  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShahilRoy&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=f59e0b&amp;text_color=a3a3a3" alt="Most used languages" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com?user=ShahilRoy&amp;theme=transparent&amp;hide_border=true&amp;ring=f59e0b&amp;fire=f59e0b&amp;currStreakLabel=f59e0b&amp;sideLabels=a3a3a3&amp;dates=737373" alt="GitHub contribution streak" />
+</div>
 
 <br />
 
 <div align="center">
+  <h2>📈 Contribution Activity</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahilRoy&amp;bg_color=00000000&amp;color=a3a3a3&amp;line=f59e0b&amp;point=fbbf24&amp;area=true&amp;hide_border=true" width="100%" alt="GitHub contribution graph" />
+</div>
+
+<br />
+<hr />
+<br />
+
+<div align="center">
+  <h2>🎯 Current Direction</h2>
+  <p>My current objective is to become capable of building complete real-world systems—from interface and backend architecture to AI integration, security, testing and deployment.</p>
+  <p>
+    <strong>I am particularly interested in projects involving:</strong><br />
+    <code>AI + Documents</code> · <code>AI + Legal Tech</code> · <code>AI + Automation</code> · <code>Secure Backends</code> · <code>Developer Tools</code> · <code>Open-Source</code>
+  </p>
+  <br />
   <h3>⚡ Build. Test. Understand. Improve. ⚡</h3>
 </div>
