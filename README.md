@@ -2,6 +2,7 @@
 
 <!--
 **ShahilRoy/ShahilRoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="582" height="477" alt="Screenshot 2026-07-22 144502" src="https://github.com/user-attachments/assets/d78a9fc1-d364-48d9-83c3-4f7948dedb1f" />
 
 Here are some ideas to get you started:
 
