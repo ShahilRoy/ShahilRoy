@@ -22,15 +22,21 @@ Building practical AI systems for document intelligence, legal research, automat
 
 ---
 
-## About Me
+## 👤 About Me
 
-I am a **B.Tech Computer Science student** at Brainware University, working across AI engineering, backend development, cybersecurity, data analysis and blockchain.
-
-My primary project is an AI-powered legal workspace designed to bring document analysis, grounded legal chat, research and drafting into a single interface.
-
-I prefer learning through real projects—building systems, identifying weaknesses, improving architecture and turning experimental ideas into reliable applications.
-
-<img src="./assets/about-card.svg" width="100%" alt="Shahil's Profile Details" />
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Developing secure, intelligent systems 🚀</h3>
+      <p>I am a <strong>B.Tech Computer Science student</strong> at Brainware University, working across AI engineering, backend development, cybersecurity, data analysis, and blockchain.</p>
+      <p><strong>Main Focus:</strong> An AI-powered legal workspace designed to bring document analysis, grounded legal chat, research, and drafting into a single interface.</p>
+      <p><em>I learn by doing: building systems, identifying weaknesses, improving architecture, and turning experimental ideas into reliable applications.</em></p>
+    </td>
+    <td valign="top" width="50%">
+      <img src="./assets/about-card.svg" width="100%" alt="Shahil's Profile Details" />
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Currently Building
 
