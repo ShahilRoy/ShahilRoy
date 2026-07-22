@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./assets/cyber-ascii.png" width="100%" alt="Cyber-themed ASCII banner featuring Shahil Roy" />
+<img src="./assets/cyber-ascii.png" height="250" alt="Cyber-themed ASCII banner featuring Shahil Roy" />
 
 <br />
 
