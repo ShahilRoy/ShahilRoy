@@ -30,26 +30,7 @@ My primary project is an AI-powered legal workspace designed to bring document a
 
 I prefer learning through real projects—building systems, identifying weaknesses, improving architecture and turning experimental ideas into reliable applications.
 
-```python
-shahil = {
-    "education": "B.Tech in Computer Science",
-    "location": "Kolkata, India",
-    "current_project": "AI-powered Software",
-    "main_focus": [
-        "AI-powered applications",
-        "Python and Django",
-        "RAG and document intelligence",
-        "Backend architecture",
-        "Application security"
-    ],
-    "also_exploring": [
-        "Cloud engineering",
-        "Data analysis",
-        "Solidity and Web3",
-        "Automation"
-    ]
-}
-```
+<img src="./assets/about-card.svg" width="100%" alt="Shahil's Profile Details" />
 
 ## Currently Building
 

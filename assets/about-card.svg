@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 450" width="100%">
+  <defs>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <style>
+    .terminal {
+      font-family: 'Fira Code', 'JetBrains Mono', Consolas, Monaco, monospace;
+      font-size: 14px;
+    }
+    .ln { fill: #484f58; text-anchor: end; user-select: none; }
+    .keyword { fill: #ff7b72; font-weight: bold; }
+    .variable { fill: #d2a8ff; }
+    .operator { fill: #ff7b72; }
+    .property { fill: #79c0ff; }
+    .string { fill: #a5d6ff; }
+    .punctuation { fill: #8b949e; }
+    .bracket { fill: #ffd709; }
+    .comment { fill: #8b949e; font-style: italic; }
+  </style>
+
+  <rect width="760" height="450" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1" filter="url(#glow)"/>
+  
+  <!-- Header Bar -->
+  <path d="M0,8 Q0,0 8,0 L752,0 Q760,0 760,8 L760,35 L0,35 Z" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  
+  <!-- Window Controls -->
+  <circle cx="20" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="18" r="6" fill="#27c93f"/>
+  
+  <text x="380" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e" text-anchor="middle" font-weight="500">shahil.py</text>
+  
+  <!-- Code Editor Body -->
+  <g class="terminal" transform="translate(30, 65)">
+    <!-- Line Numbers -->
+    <g class="ln">
+      <text x="15" y="0">1</text>
+      <text x="15" y="22">2</text>
+      <text x="15" y="44">3</text>
+      <text x="15" y="66">4</text>
+      <text x="15" y="88">5</text>
+      <text x="15" y="110">6</text>
+      <text x="15" y="132">7</text>
+      <text x="15" y="154">8</text>
+      <text x="15" y="176">9</text>
+      <text x="15" y="198">10</text>
+      <text x="15" y="220">11</text>
+      <text x="15" y="242">12</text>
+      <text x="15" y="264">13</text>
+      <text x="15" y="286">14</text>
+      <text x="15" y="308">15</text>
+      <text x="15" y="330">16</text>
+      <text x="15" y="352">17</text>
+      <text x="15" y="374">18</text>
+    </g>
+
+    <!-- Code Content -->
+    <g transform="translate(35, 0)">
+      <!-- Line 1 -->
+      <text y="0" fill="#e6edf3">
+        <tspan x="0" class="variable">shahil</tspan> <tspan class="operator">=</tspan> <tspan class="bracket">{</tspan>
+      </text>
+      
+      <!-- Line 2 -->
+      <text y="22" fill="#e6edf3">
+        <tspan x="24" class="property">"education"</tspan><tspan class="punctuation">:</tspan> <tspan class="string">"B.Tech in Computer Science"</tspan><tspan class="punctuation">,</tspan>
+      </text>
+      
+      <!-- Line 3 -->
+      <text y="44" fill="#e6edf3">
+        <tspan x="24" class="property">"location"</tspan><tspan class="punctuation">:</tspan> <tspan class="string">"Kolkata, India"</tspan><tspan class="punctuation">,</tspan>
+      </text>
+      
+      <!-- Line 4 -->
+      <text y="66" fill="#e6edf3">
+        <tspan x="24" class="property">"current_project"</tspan><tspan class="punctuation">:</tspan> <tspan class="string">"AI-powered Software"</tspan><tspan class="punctuation">,</tspan>
+      </text>
+      
+      <!-- Line 5 -->
+      <text y="88" fill="#e6edf3">
+        <tspan x="24" class="property">"main_focus"</tspan><tspan class="punctuation">:</tspan> <tspan class="bracket">[</tspan>
+      </text>
+      
+      <!-- Line 6 -->
+      <text y="110" fill="#e6edf3">
+        <tspan x="48" class="string">"AI-powered applications"</tspan><tspan class="punctuation">,</tspan>
+      </text>
+      
+      <!-- Line 7 -->
+      <text y="132" fill="#e6edf3">
+        <tspan x="48" class="string">"Python and Django"</tspan><tspan class="punctuation">,</tspan>
+      </text>
+      
+      <!-- Line 8 -->
+      <text y="154" fill="#e6edf3">
+        <tspan x="48" class="string">"RAG and document intelligence"</tspan><tspan class="punctuation">,</tspan>
+      </text>
+      
+      <!-- Line 9 -->
+      <text y="176" fill="#e6edf3">
+        <tspan x="48" class="string">"Backend architecture"</tspan><tspan class="punctuation">,</tspan>
+      </text>
+      
+      <!-- Line 10 -->
+      <text y="198" fill="#e6edf3">
+        <tspan x="48" class="string">"Application security"</tspan>
+      </text>
+      
+      <!-- Line 11 -->
+      <text y="220" fill="#e6edf3">
+        <tspan x="24" class="bracket">]</tspan><tspan class="punctuation">,</tspan>
+      </text>
+      
+      <!-- Line 12 -->
+      <text y="242" fill="#e6edf3">
+        <tspan x="24" class="property">"also_exploring"</tspan><tspan class="punctuation">:</tspan> <tspan class="bracket">[</tspan>
+      </text>
+      
+      <!-- Line 13 -->
+      <text y="264" fill="#e6edf3">
+        <tspan x="48" class="string">"Cloud engineering"</tspan><tspan class="punctuation">,</tspan>
+      </text>
+      
+      <!-- Line 14 -->
+      <text y="286" fill="#e6edf3">
+        <tspan x="48" class="string">"Data analysis"</tspan><tspan class="punctuation">,</tspan>
+      </text>
+      
+      <!-- Line 15 -->
+      <text y="308" fill="#e6edf3">
+        <tspan x="48" class="string">"Solidity and Web3"</tspan><tspan class="punctuation">,</tspan>
+      </text>
+      
+      <!-- Line 16 -->
+      <text y="330" fill="#e6edf3">
+        <tspan x="48" class="string">"Automation"</tspan>
+      </text>
+      
+      <!-- Line 17 -->
+      <text y="352" fill="#e6edf3">
+        <tspan x="24" class="bracket">]</tspan>
+      </text>
+      
+      <!-- Line 18 -->
+      <text y="374" fill="#e6edf3">
+        <tspan x="0" class="bracket">}</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
