@@ -5,13 +5,13 @@
 
 <div align="center">
   <img src="./assets/cyber-ascii.png" height="220" alt="Cyber ASCII Banner" />
-  
-  <br /><br />
-  
+
+<br /><br />
+
   <h1>Shahil Roy</h1>
   <h3>Engineering Student · AI Builder · Python &amp; Django Developer</h3>
-  <p>Building practical AI systems for document intelligence, legal research, automation, and secure software.</p>
-  
+  <p>Building practical AI systems for document intelligence, automation, backend engineering, and secure software.</p>
+
   <p>
     <a href="https://github.com/ShahilRoy"><img src="https://img.shields.io/badge/GitHub-ShahilRoy-181717?style=for-the-badge&amp;logo=github" alt="GitHub" /></a>
     <a href="https://github.com/ShahilRoy"><img src="https://komarev.com/ghpvc/?username=ShahilRoy&amp;style=for-the-badge&amp;color=f59e0b&amp;label=PROFILE+VIEWS" alt="Profile Views" /></a>
@@ -40,31 +40,38 @@ I believe in learning by doing: building systems, finding security flaws, optimi
 
 ## 🛠️ Currently Building
 
-### AI-Powered Legal Workspace (Judicore AI)
-An all-in-one AI workspace designed to bring document analysis, grounded legal chat, research, and drafting into a single interface.
+### 🔒 Private AI Document Intelligence Platform
+
+I am currently developing a private AI-powered workspace focused on document understanding, information retrieval, research workflows, and intelligent automation.
+
+The project is intentionally kept partially undisclosed while development is in progress.
 
 **Key Development Areas:**
-- 🔍 **Source-grounded AI conversations** — anchoring AI answers to specific sections of uploaded documents.
-- 📄 **Large PDF processing &amp; analysis** — extracting structure and text from complex legal files.
-- 🧠 **Retrieval-Augmented Generation (RAG)** — engineering prompt context and semantic search databases.
-- 🔒 **Document &amp; conversation isolation** — ensuring strict user-data boundaries and privacy.
-- ⚡ **Scalable background-processing pipelines** — executing heavy tasks asynchronously.
-- 💻 **NotebookLM-inspired workspace design** — designing custom interfaces for reading, research, and note-taking.
-- 🛡️ **Secure multi-user architecture** — preventing cross-tenant data leaks and unauthorized access.
+
+* 🔍 **Source-grounded AI conversations** — connecting generated answers with retrieved evidence and source material.
+* 📄 **Large-document processing** — extracting, structuring, and analyzing complex files.
+* 🧠 **Retrieval-Augmented Generation (RAG)** — experimenting with retrieval, ranking, context construction, and grounding.
+* 🔒 **Data isolation & privacy** — maintaining strict boundaries between users, documents, and conversations.
+* ⚡ **Background-processing pipelines** — handling computationally expensive workloads outside request-response paths.
+* 💻 **AI workspace interfaces** — designing clean environments for reading, research, analysis, and interaction.
+* 🛡️ **Secure multi-user architecture** — strengthening authentication, authorization, and access-control boundaries.
+* 🌐 **Web-assisted information retrieval** — combining external information sources with AI reasoning pipelines.
 
 <br />
 
-*The goal is not just to create another chatbot, but to build a focused workspace where documents, research, reasoning, and drafting remain connected.*
+*The goal is to explore how retrieval, document intelligence, AI reasoning, and reliable software architecture can work together inside a production-oriented system.*
 
 <br /><br />
 
 ### 🚀 Development Priorities
-- **01.** Improve RAG answer quality and citations
-- **02.** Process large documents efficiently
-- **03.** Build secure document-access controls
-- **04.** Create a clean and responsive workspace UI
-- **05.** Reduce unnecessary architectural complexity
-- **06.** Turn experimental prototypes into production-ready systems
+
+* **01.** Improve retrieval and answer grounding
+* **02.** Process large documents efficiently
+* **03.** Strengthen document-access controls
+* **04.** Build a clean and responsive AI workspace
+* **05.** Reduce unnecessary architectural complexity
+* **06.** Improve observability, testing, and reliability
+* **07.** Turn experimental prototypes into production-ready systems
 
 <br />
 <hr />
@@ -73,54 +80,59 @@ An all-in-one AI workspace designed to bring document analysis, grounded legal c
 ## 💻 Technical Skills
 
 ### 🧠 Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,solidity,html,css,sql" alt="Languages" />
 </p>
 
 <br />
 
-### ⚙️ Backend &amp; Systems
+### ⚙️ Backend & Systems
+
 <p>
   <img src="https://skillicons.dev/icons?i=django,flask,nodejs,react" alt="Backend" />
 </p>
 
 <br />
 
-### 📊 Databases &amp; Data
+### 📊 Databases & Data
+
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" />
 </p>
 
-- 🐼 Pandas &amp; Matplotlib
-- 🧼 Data cleaning &amp; analysis
-- 📄 OCR &amp; document extraction
+* 🐼 Pandas & Matplotlib
+* 🧼 Data cleaning & analysis
+* 📄 OCR & document extraction
 
 <br />
 
-### ⛓️ Blockchain &amp; Web3
+### ⛓️ Blockchain & Web3
+
 <p>
   <img src="https://skillicons.dev/icons?i=solidity,ethereum" alt="Blockchain" />
 </p>
 
-- 🛠️ Foundry (Forge, Cast, Anvil, Chisel)
-- 📈 Chainlink Price Feeds &amp; Chainlink VRF
-- 📜 Solidity scripting &amp; contract testing
+* 🛠️ Foundry (Forge, Cast, Anvil, Chisel)
+* 📈 Chainlink Price Feeds & Chainlink VRF
+* 📜 Solidity scripting & contract testing
 
 <br />
 
-### 🛠️ Tools &amp; Platforms
+### 🛠️ Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,powershell,bash,figma" alt="Tools" />
 </p>
 
-- 🪟 Windows and WSL
-- 🐳 Docker Desktop
-- 🐙 Git and GitHub
-- 🦙 Ollama (Local LLMs)
-- 🔄 n8n automation
-- 🌐 Exa web-search integration
-- 🔌 REST APIs
-- 🐚 PowerShell and Bash scripting
+* 🪟 Windows and WSL
+* 🐳 Docker Desktop
+* 🐙 Git and GitHub
+* 🦙 Ollama (Local LLMs)
+* 🔄 n8n automation
+* 🌐 Web-search API integrations
+* 🔌 REST APIs
+* 🐚 PowerShell and Bash scripting
 
 <br />
 <hr />
@@ -128,14 +140,18 @@ An all-in-one AI workspace designed to bring document analysis, grounded legal c
 
 ## 📂 Project Experience
 
-### 🚀 Judicore AI
-`AI` · `Django` · `RAG` · `PDF Processing` · `Legal Research` · `Web Search`
+### 🔒 Private AI Systems Project
 
-A document-centred legal AI platform supporting research, source-grounded answers, PDF analysis and drafting workflows.
+`AI` · `Django` · `RAG` · `Document Processing` · `Information Retrieval` · `Web Search`
+
+An ongoing private project exploring AI-powered document intelligence, retrieval systems, source-grounded generation, automation, and production-oriented backend architecture.
+
+Certain implementation details and product information are intentionally not disclosed publicly.
 
 <br />
 
 ### ⛓️ FoundryProject251
+
 `Solidity` · `Foundry` · `Smart Contracts` · `Testing` · `Deployment`
 
 A collection of Solidity projects developed while learning professional smart-contract workflows with Foundry.
@@ -145,6 +161,7 @@ A collection of Solidity projects developed while learning professional smart-co
 <br />
 
 ### 💳 FundMe Smart Contract
+
 `Solidity` · `Chainlink` · `Forge Testing` · `Deployment Scripts`
 
 A decentralized funding contract using Chainlink price feeds, automated deployment scripts and unit testing.
@@ -152,6 +169,7 @@ A decentralized funding contract using Chainlink price feeds, automated deployme
 <br />
 
 ### 🎟️ Smart Contract Lottery
+
 `Solidity` · `Chainlink VRF V2.5` · `Automation` · `Foundry`
 
 A decentralized raffle system using verifiable randomness, mocks, network configuration and automated testing.
@@ -159,6 +177,7 @@ A decentralized raffle system using verifiable randomness, mocks, network config
 <br />
 
 ### ✍️ Handwriting-to-Text Application
+
 `Python` · `Flask` · `OpenCV` · `Tesseract OCR` · `Pillow`
 
 An OCR-based application for extracting digital text from handwritten or scanned images.
@@ -166,6 +185,7 @@ An OCR-based application for extracting digital text from handwritten or scanned
 <br />
 
 ### 📊 Data Analysis Projects
+
 `Python` · `Pandas` · `Matplotlib` · `SQL`
 
 Data-cleaning, visualization and exploratory-analysis projects, including analysis of COVID-19 datasets.
@@ -173,6 +193,7 @@ Data-cleaning, visualization and exploratory-analysis projects, including analys
 <br />
 
 ### 🤖 Workflow Automation
+
 `n8n` · `Gmail` · `Ollama` · `Docker` · `Local AI`
 
 Experiments with AI-assisted email categorization and local automation using n8n, Gmail integrations and Ollama models.
@@ -183,16 +204,16 @@ Experiments with AI-assisted email categorization and local automation using n8n
 
 ## 📚 What I Am Learning
 
-| Area | Current Focus |
-| :--- | :--- |
-| **AI Engineering** | RAG, grounding, retrieval, and model orchestration |
-| **Backend Development** | Django architecture, APIs, and background jobs |
-| **Document Intelligence** | PDF parsing, OCR, indexing, and citations |
-| **Security** | Authentication, authorization, and data isolation |
-| **Cloud** | Deployment, monitoring, and scalable infrastructure |
-| **Frontend** | Responsive AI workspaces and TypeScript |
-| **Blockchain** | Foundry, Solidity, and Chainlink integrations |
-| **Data** | Python, SQL, and data visualization |
+| Area                      | Current Focus                                                 |
+| :------------------------ | :------------------------------------------------------------ |
+| **AI Engineering**        | RAG, grounding, retrieval, reranking, and model orchestration |
+| **Backend Development**   | Django architecture, APIs, and background jobs                |
+| **Document Intelligence** | PDF parsing, OCR, indexing, retrieval, and citations          |
+| **Security**              | Authentication, authorization, and data isolation             |
+| **Cloud**                 | Deployment, monitoring, and scalable infrastructure           |
+| **Frontend**              | Responsive AI workspaces and TypeScript                       |
+| **Blockchain**            | Foundry, Solidity, and Chainlink integrations                 |
+| **Data**                  | Python, SQL, and data visualization                           |
 
 <br />
 <hr />
@@ -225,12 +246,14 @@ Improve security and reliability
 <br />
 
 ## 💎 Core Values
-- **Clear architecture** over unnecessary abstraction
-- **Secure defaults** over client-controlled trust
-- **Grounded AI answers** over confident hallucinations
-- **Practical testing** over assumptions
-- **Maintainable code** over short-term shortcuts
-- **Simple interfaces** over technical clutter
+
+* **Clear architecture** over unnecessary abstraction
+* **Secure defaults** over client-controlled trust
+* **Grounded AI answers** over confident hallucinations
+* **Practical testing** over assumptions
+* **Maintainable code** over short-term shortcuts
+* **Simple interfaces** over technical clutter
+* **Evidence-driven engineering** over guesswork
 
 <br />
 <hr />
@@ -242,9 +265,9 @@ Improve security and reliability
   <img height="175" src="https://github-stats-extended.vercel.app/api?username=ShahilRoy&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=f59e0b&amp;icon_color=f59e0b&amp;text_color=a3a3a3" alt="Shahil's GitHub statistics" />
   &nbsp;&nbsp;
   <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShahilRoy&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=f59e0b&amp;text_color=a3a3a3" alt="Most used languages" />
-  
-  <br /><br />
-  
+
+<br /><br />
+
   <img src="https://streak-stats.demolab.com?user=ShahilRoy&amp;theme=transparent&amp;hide_border=true&amp;ring=f59e0b&amp;fire=f59e0b&amp;currStreakLabel=f59e0b&amp;sideLabels=a3a3a3&amp;dates=737373" alt="GitHub contribution streak" />
 </div>
 
@@ -262,11 +285,11 @@ Improve security and reliability
 
 ## 🎯 Current Direction
 
-My current objective is to become capable of building complete real-world systems—from interface and backend architecture to AI integration, security, testing and deployment.
+My current objective is to become capable of building complete real-world systems — from interface and backend architecture to AI integration, security, testing, deployment, and infrastructure.
 
 I am particularly interested in projects involving:
 
-`AI + Documents` · `AI + Legal Tech` · `AI + Automation` · `Secure Backends` · `Developer Tools` · `Open-Source`
+`AI Systems` · `Document Intelligence` · `Information Retrieval` · `AI Automation` · `Secure Backends` · `Developer Tools` · `Open-Source`
 
 <br /><br />
 
