@@ -275,8 +275,14 @@ Improve security and reliability
 
 ## 📈 Contribution Activity
 
+## 📈 Contribution Activity
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahilRoy&amp;bg_color=00000000&amp;color=a3a3a3&amp;line=f59e0b&amp;point=fbbf24&amp;area=true&amp;hide_border=true" width="100%" alt="GitHub contribution graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ShahilRoy&theme=github-compact&hide_border=true"
+    width="100%"
+    alt="Shahil Roy's GitHub contribution graph"
+  />
 </div>
 
 <br />
