@@ -3,25 +3,6 @@
   Profile: github.com/ShahilRoy
 -->
 
-<div align="center">
-  <img src="./assets/cyber-ascii.png" height="220" alt="Cyber ASCII Banner" />
-
-<br /><br />
-
-  <h1>Shahil Roy</h1>
-  <h3>Engineering Student · AI Builder · Python &amp; Django Developer</h3>
-  <p>Building practical AI systems for document intelligence, automation, backend engineering, and secure software.</p>
-
-  <p>
-    <a href="https://github.com/ShahilRoy"><img src="https://img.shields.io/badge/GitHub-ShahilRoy-181717?style=for-the-badge&amp;logo=github" alt="GitHub" /></a>
-    <a href="https://github.com/ShahilRoy"><img src="https://komarev.com/ghpvc/?username=ShahilRoy&amp;style=for-the-badge&amp;color=f59e0b&amp;label=PROFILE+VIEWS" alt="Profile Views" /></a>
-  </p>
-</div>
-
-<br />
-<hr />
-<br />
-
 ## 👤 About Me
 
 I am a **B.Tech Computer Science student** at Brainware University, working across AI engineering, backend development, application security, data analysis, and blockchain.
