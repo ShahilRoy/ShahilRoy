@@ -63,15 +63,7 @@ The project is intentionally kept partially undisclosed while development is in 
 
 <br /><br />
 
-### 🚀 Development Priorities
 
-* **01.** Improve retrieval and answer grounding
-* **02.** Process large documents efficiently
-* **03.** Strengthen document-access controls
-* **04.** Build a clean and responsive AI workspace
-* **05.** Reduce unnecessary architectural complexity
-* **06.** Improve observability, testing, and reliability
-* **07.** Turn experimental prototypes into production-ready systems
 
 <br />
 <hr />
@@ -219,41 +211,13 @@ Experiments with AI-assisted email categorization and local automation using n8n
 <hr />
 <br />
 
-## ⚙️ Engineering Approach
 
-<div align="center">
-
-```
-  Understand the problem
-            ↓
-Build the smallest working version
-            ↓
-  Test it with real inputs
-            ↓
-Find architectural weaknesses
-            ↓
-Improve security and reliability
-            ↓
-  Document what matters
-            ↓
-          Repeat
-```
-
-</div>
 
 <br />
 <hr />
 <br />
 
-## 💎 Core Values
 
-* **Clear architecture** over unnecessary abstraction
-* **Secure defaults** over client-controlled trust
-* **Grounded AI answers** over confident hallucinations
-* **Practical testing** over assumptions
-* **Maintainable code** over short-term shortcuts
-* **Simple interfaces** over technical clutter
-* **Evidence-driven engineering** over guesswork
 
 <br />
 <hr />
