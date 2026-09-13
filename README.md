@@ -237,9 +237,7 @@ Experiments with AI-assisted email categorization and local automation using n8n
 
 <br /><br />
 
-## 📈 Contribution Activity
 
-## 📈 Contribution Activity
 
 <div align="center">
   <img
