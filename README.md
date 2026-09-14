@@ -10,16 +10,29 @@
     <a href="https://github.com/ShahilRoy?tab=repositories"><img src="https://img.shields.io/badge/Repositories-ShahilRoy-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
   </p>
 
+  <p>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities%20%26%20Collaborations-10B981?style=flat-square" alt="Status" />
+  </p>
+
 </div>
 
 ---
 
-### ⚡ About & Focus
+### ⚡ What I Build & Focus On
 
-- 🎓 **Education:** B.Tech in Computer Science • Kolkata, India
-- ⚙️ **Core Focus:** Scalable Backend Architecture, Application Security, RAG Systems
-- 💡 **Engineering Approach:** Strongly typed, edge-case tested, minimal dependencies
-- 🌱 **Currently Exploring:** Distributed systems, system internals & AI retrieval pipelines
+- 🛡️ **Application Security:** Building static analysis tooling to inspect browser extensions and codebases for risky permissions and vulnerabilities.
+- 🧠 **AI & Retrieval Architecture:** Designing source-grounded RAG pipelines, document structuring, and vector search systems.
+- ⚙️ **Robust Backend Systems:** Crafting high-throughput APIs with **Django**, **FastAPI**, and **Next.js**, backed by **PostgreSQL** and containerized with **Docker**.
+
+---
+
+### 🛡️ Engineering Standards
+
+| Principle | In Practice |
+| :--- | :--- |
+| **Type Safety** | Comprehensive typing (Python type hints, TypeScript) — zero loose `any` shortcuts. |
+| **Defensive Architecture** | Strict input validation, secure authorization boundaries, and proactive error handling. |
+| **Testing & Reliability** | Automated test suites (Pytest, Forge), Dockerized environments, and reproducible builds. |
 
 ---
 
@@ -34,5 +47,5 @@
 ---
 
 <div align="center">
-  <sub>Build. Test. Understand. Ship.</sub>
+  <sub>⚡ Clean Architecture • Pragmatic Engineering • Production Ready ⚡</sub>
 </div>
