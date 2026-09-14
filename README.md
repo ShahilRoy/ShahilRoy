@@ -13,35 +13,34 @@
 
 ---
 
-<table width="100%" border="0">
-  <tr>
-    <!-- Left Column: About & Tech Stack -->
-    <td width="54%" valign="top">
-      <h3>⚡ About & Focus</h3>
-      <ul>
-        <li>🎓 <b>Education:</b> B.Tech in CS • Kolkata, India</li>
-        <li>⚙️ <b>Focus:</b> Scalable Backends, AppSec, RAG Systems</li>
-        <li>💡 <b>Approach:</b> Strongly typed, edge-case tested, zero bloat</li>
-        <li>🌱 <b>Learning:</b> Distributed systems & system internals</li>
-      </ul>
+<table>
+<tr>
+<td width="52%" valign="top">
 
-      <h3>🛠️ Tech & Tooling</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,js,ts,solidity,c" alt="Languages" /><br />
-        <img src="https://skillicons.dev/icons?i=django,fastapi,nextjs,postgres,docker,git,linux" alt="Frameworks & Tools" />
-      </p>
-    </td>
+### ⚡ About & Focus
+- 🎓 **Education:** B.Tech in CS • Kolkata, India
+- ⚙️ **Focus:** Scalable Backends, AppSec, RAG Systems
+- 💡 **Approach:** Strongly typed, edge-case tested, zero bloat
+- 🌱 **Learning:** Distributed systems & system internals
 
-    <!-- Right Column: Analytics -->
-    <td width="46%" valign="top" align="center">
-      <h3>📈 GitHub Activity</h3>
-      <img src="https://github-stats-extended.vercel.app/api?username=ShahilRoy&show_icons=true&hide_border=true&theme=transparent&title_color=f59e0b&icon_color=f59e0b&text_color=a3a3a3" width="95%" alt="Stats" />
-      <br />
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShahilRoy&layout=compact&hide_border=true&theme=transparent&title_color=f59e0b&text_color=a3a3a3" width="95%" alt="Languages" />
-    </td>
-  </tr>
+### 🛠️ Tech & Tooling
+<p>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,js,ts,solidity,c" alt="Languages" /></a><br />
+<a href="#"><img src="https://skillicons.dev/icons?i=django,fastapi,nextjs,postgres,docker,git,linux" alt="Frameworks & Tools" /></a>
+</p>
+
+</td>
+<td width="48%" valign="top" align="center">
+
+### 📈 GitHub Activity
+<img src="https://github-stats-extended.vercel.app/api?username=ShahilRoy&show_icons=true&hide_border=true&theme=transparent&title_color=f59e0b&icon_color=f59e0b&text_color=a3a3a3" width="100%" alt="Stats" />
+<br />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShahilRoy&layout=compact&hide_border=true&theme=transparent&title_color=f59e0b&text_color=a3a3a3" width="100%" alt="Languages" />
+
+</td>
+</tr>
 </table>
 
 <div align="center">
-  <sub><code>⚡ Build. Test. Understand. Ship. ⚡</code></sub>
+  <sub>Build. Test. Understand. Ship.</sub>
 </div>
